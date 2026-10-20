@@ -22,7 +22,6 @@
 ## Структура
 ```
 hw4_olist.ipynb      # notebook з output клітинок
-data/olist/*.csv     # 6 CSV (~58 MB, кожен файл < 100 MB)
 README.md
 ```
 
